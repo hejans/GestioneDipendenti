@@ -1,0 +1,25 @@
+{
+  "name": "empman",
+  "version": "1.0.0",
+  "description": "application that manage employee",
+  "main": "/Server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hejans/GestioneDipendenti.git"
+  },
+  "author": "davide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hejans/GestioneDipendenti/issues"
+  },
+  "homepage": "https://github.com/hejans/GestioneDipendenti#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "util": "^0.10.3"
+  }
+}
