@@ -4,8 +4,8 @@
   "description": "application that manage employee",
   "main": "/Server/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    
+    "start": "/Server/node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
