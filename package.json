@@ -4,7 +4,7 @@
   "description": "application that manage employee",
   "main": "Server/server.js",
   "scripts": {
-    "start": "C:/Users/Davide/Desktop/Lab/GestioneDipendenti/Server/server.js",
+    "start": "node C:/Users/Davide/Desktop/Lab/GestioneDipendenti/Server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
