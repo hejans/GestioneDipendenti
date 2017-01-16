@@ -4,7 +4,7 @@
   "description": "application that manage employee",
   "main": "Server/server.js",
   "scripts": {
-    "start": "Server/node server.js",
+    "start": "node Server/node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
