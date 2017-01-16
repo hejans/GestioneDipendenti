@@ -2,7 +2,7 @@
   "name": "empman",
   "version": "1.0.0",
   "description": "application that manage employee",
-  "main": "/Server/server.js",
+  "main": "Server/server.js",
   "scripts": {
     "start": "Server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
